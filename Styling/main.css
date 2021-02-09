@@ -17,8 +17,12 @@ body{
 }
 
 h1 {
-    font-size: min(5vh, 4vw);
+    font-size: min(8vh, 6vw);
     color: var(--four);
+}
+h3 {
+    color: var(--four);
+    font-size: min(4vh, 3.25vw);
 }
 
 #attentionText {
@@ -31,7 +35,7 @@ ul {
 }
 
 .listingText {
-    font-size: min(3vh, 2.5vh);
+    font-size: min(3vh, 2.5vw);
     color: var(--five);
 }
 
